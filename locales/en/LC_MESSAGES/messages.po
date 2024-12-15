@@ -1,0 +1,76 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-15 23:17+0300\n"
+"PO-Revision-Date: 2024-12-15 23:19+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: dialogs/main_menu.py:42
+msgid "Send a voice message"
+msgstr ""
+
+#: dialogs/main_menu.py:59
+msgid "Language successfully changed: {language}"
+msgstr ""
+
+#: dialogs/main_menu.py:71
+msgid ""
+"Welcome to the main menu!\n"
+"Choose an action:"
+msgstr ""
+
+#: dialogs/main_menu.py:73
+msgid "▶️ Start translation"
+msgstr ""
+
+#: dialogs/main_menu.py:76
+msgid "📖 About the bot"
+msgstr ""
+
+#: dialogs/main_menu.py:77
+msgid "❓ Help"
+msgstr ""
+
+#: dialogs/main_menu.py:80
+msgid "⚙️ Settings"
+msgstr ""
+
+#: dialogs/main_menu.py:86
+msgid ""
+"Settings:\n"
+"Choose your language:"
+msgstr ""
+
+#: dialogs/main_menu.py:88
+msgid "🇬🇧 English"
+msgstr ""
+
+#: dialogs/main_menu.py:89
+msgid "🇷🇺 Russian"
+msgstr ""
+
+#: dialogs/main_menu.py:91 dialogs/main_menu.py:98 dialogs/main_menu.py:106
+msgid "⬅️ Back"
+msgstr ""
+
+#: dialogs/main_menu.py:96
+msgid "About the bot."
+msgstr ""
+
+#: dialogs/main_menu.py:104
+msgid "Help."
+msgstr ""
+
