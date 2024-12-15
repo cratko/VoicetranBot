@@ -27,7 +27,7 @@
 ### 1. Клонирование репозитория
 Склонируйте проект на свой компьютер:
 ```bash
-git clone https://github.com/cratko/voicetran.git
+git clone https://github.com/cratko/VoicetranBot.git
 cd voicetran
 ```
 
